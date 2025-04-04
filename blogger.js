@@ -2,5 +2,5 @@
         window.addEventListener('load', function() {
             setTimeout(function() {
                 document.getElementById("cookiePopup").style.display = "flex";
-            }, 1000);
+            }, 0001);
         });
